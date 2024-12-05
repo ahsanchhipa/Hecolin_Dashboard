@@ -9,7 +9,7 @@ st.components.v1.html(
     <div style="position: relative; height: 0; overflow: hidden; padding-bottom: 56.25%;">
         <iframe 
             id="powerbi-frame"
-            src="https://app.powerbi.com/reportEmbed?reportId=e8fee0b6-c10f-468b-a03a-ec39d373e420&autoAuth=true&ctid=a5d4252a-02f9-4e60-96f0-9733baae4919" 
+            src="https://app.powerbi.com/reportEmbed?reportId=e8fee0b6-c10f-468b-a03a-ec39d373e420" 
             style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
             frameborder="0" 
             allowFullScreen="true">
